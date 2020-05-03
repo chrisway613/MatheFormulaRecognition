@@ -1,1 +1,1 @@
-# MathematicalFormulaRecognition Projects
+# Mathematical Formula Recognition Projects
